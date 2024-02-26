@@ -25,7 +25,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ReloadedLinkRoots Include=" P3R.bgm.MakotoMP3.battle-themes.Template" />
+    <ReloadedLinkRoots Include="BattleThemes.Template" />
     <!-- Add assemblies to be trimmed. You might need to add their dependencies too!  -->
     <!-- <ReloadedLinkAssemblies Include="Reloaded.Memory" /> -->
   </ItemGroup>

@@ -4,7 +4,7 @@
   "ModAuthor": "cerebralpolicy",
   "ModVersion": "0.2.1",
   "ModDescription": "Diegetic music for P3R.",
-  "ModDll": "BattleThemes.Template.dll",
+  "ModDll": " P3R.bgm.MakotoMP3.battle-themes.Template.dll",
   "ModIcon": "Logo.png",
   "ModR2RManagedDll32": "x86/Battle-themes.Template.dll",
   "ModR2RManagedDll64": "x64/Battle-themes.Template.dll",
