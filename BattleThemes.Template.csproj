@@ -57,10 +57,19 @@
     <ProjectReference Include="submodules\BGME.BattleThemes\BGME.BattleThemes.Config\BGME.BattleThemes.Config.csproj" />
   </ItemGroup>
 
-<ItemGroup>
-	<Content Include="battle-themes\options\**">
-		<CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-	</Content>
-</ItemGroup>
+  <ItemGroup>
+	  <Content Include="battle-themes\options\**">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </Content>
+	  <Content Include="battle-themes\music\**">
+		  <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+	  </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="UnrealEssentials\**">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
 
 </Project>
